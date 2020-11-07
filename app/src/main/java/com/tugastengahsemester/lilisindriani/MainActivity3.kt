@@ -18,7 +18,7 @@ class MainActivity3 : AppCompatActivity() {
     @Override
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main3)
+        setContentView(R.layout.activity_main2)
 
         button = findViewById(R.id.button2)
         button.setOnClickListener{

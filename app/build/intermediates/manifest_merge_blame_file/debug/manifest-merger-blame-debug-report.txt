@@ -57,8 +57,8 @@
 33            </intent-filter>
 34        </activity>
 35        <activity android:name="com.tugastengahsemester.lilisindriani.MainActivity3" >
-35-->E:\matkul akakom\semester 5\praktikum berbasis mobile\KuisSeni2\app\src\main\AndroidManifest.xml:26:9-32:20
-35-->E:\matkul akakom\semester 5\praktikum berbasis mobile\KuisSeni2\app\src\main\AndroidManifest.xml:26:19-48
+35-->E:\matkul akakom\semester 5\praktikum berbasis mobile\KuisSeni2\app\src\main\AndroidManifest.xml:25:20-31:16
+35-->E:\matkul akakom\semester 5\praktikum berbasis mobile\KuisSeni2\app\src\main\AndroidManifest.xml:25:30-59
 36            <intent-filter>
 36-->E:\matkul akakom\semester 5\praktikum berbasis mobile\KuisSeni2\app\src\main\AndroidManifest.xml:13:13-17:29
 37                <action android:name="android.intent.action.MAIN" />
